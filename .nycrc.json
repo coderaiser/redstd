@@ -1,0 +1,18 @@
+{
+    "check-coverage": false,
+    "all": true,
+    "exclude": [
+        "**/*.spec.*",
+        "**/*.config.*",
+        "**/bin/madrun-completion.js",
+        "**/bin/madrun.js",
+        "**/choose.js",
+        "**/fixture",
+        ".*",
+        "test"
+    ],
+    "branches": 100,
+    "lines": 100,
+    "functions": 100,
+    "statements": 100
+}
