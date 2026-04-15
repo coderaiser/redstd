@@ -27,7 +27,8 @@ npm i redstd
 
 ```js
 import {readFile} from 'node:fs/promises';
-const {readStdin} = await import('redstd'); 
+import {readStdin} from 'redstd';
+
 const input = await readStdin();
 
 if (!input) {
