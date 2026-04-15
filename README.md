@@ -2,14 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/1573141/223524904-4175548f-1e30-4745-bf2e-c2f4ea39fef5.png)
 
-[NPMURL]: https://npmjs.org/package/read-stdin "npm"
-[NPMIMGURL]: https://img.shields.io/npm/v/read-stdin.svg?style=flat
-[BuildStatusURL]: https://github.com/coderaiser/read-stdin/actions?query=workflow%3A%22Node+CI%22 "Build Status"
-[BuildStatusIMGURL]: https://github.com/coderaiser/read-stdin/workflows/Node%20CI/badge.svg
+[NPMURL]: https://npmjs.org/package/redstd "npm"
+[NPMIMGURL]: https://img.shields.io/npm/v/redstd.svg?style=flat
+[BuildStatusURL]: https://github.com/coderaiser/redstd/actions?query=workflow%3A%22Node+CI%22 "Build Status"
+[BuildStatusIMGURL]: https://github.com/coderaiser/redstd/workflows/Node%20CI/badge.svg
 [LicenseURL]: https://tldrlegal.com/license/mit-license "MIT License"
 [LicenseIMGURL]: https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
-[CoverageURL]: https://coveralls.io/github/coderaiser/read-stdin?branch=master
-[CoverageIMGURL]: https://coveralls.io/repos/coderaiser/read-stdin/badge.svg?branch=master&service=github
+[CoverageURL]: https://coveralls.io/github/coderaiser/redstd?branch=master
+[CoverageIMGURL]: https://coveralls.io/repos/coderaiser/redstd/badge.svg?branch=master&service=github
 
 Read `stdin` to have ability to use pipes like: `cat README.md | less` or
 
